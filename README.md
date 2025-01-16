@@ -88,5 +88,4 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](https:/
 - [Spotify Music Dataset](https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset)
 - [Spotipy Library](https://spotipy.readthedocs.io/)
 - [Flask](https://flask.palletsprojects.com/)
-- [Streamlit](https://streamlit.io/) (if used for the UI)
 
