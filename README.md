@@ -1,7 +1,7 @@
-# Spotify Playlist Generator AI
+# My Play AI
 
 ## Description
-Spotify Playlist Generator AI is a Python-based project that generates personalized Spotify playlists based on 1-5 seed songs. It leverages machine learning to analyze song attributes such as tempo, energy, and mood, and integrates with the Spotify API to create and save playlists directly to a user's account.
+My Play AI is a Python-based project that generates personalized Spotify playlists based on 1-5 seed songs. It leverages machine learning to analyze song attributes such as tempo, energy, and mood and integrates with the Spotify API to create and save playlists directly to a user's account.
 
 ---
 
